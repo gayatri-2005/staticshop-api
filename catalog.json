@@ -6,123 +6,123 @@
   "products": [
     {
       "id": "prod-69f49eb4-001",
-      "name": "Advanced Data Science",
-      "category": "books",
-      "price": 500.00,
-      "stock": 100,
-      "rating": 4.8
-    },
-    {
-      "id": "prod-69f49eb4-002",
-      "name": "Machine Learning Deep Dive",
-      "category": "books",
-      "price": 500.00,
-      "stock": 100,
-      "rating": 4.9
-    },
-    {
-      "id": "prod-69f49eb4-003",
-      "name": "Statistical Analysis Guide",
-      "category": "books",
-      "price": 500.00,
-      "stock": 100,
-      "rating": 4.7
-    },
-    {
-      "id": "prod-69f49eb4-004",
-      "name": "Python for Professionals",
-      "category": "books",
-      "price": 100.00,
-      "stock": 100,
-      "rating": 4.5
-    },
-    {
-      "id": "prod-69f49eb4-005",
-      "name": "Quantum Computing Basics",
-      "category": "books",
-      "price": 3521.36,
-      "stock": 1,
-      "rating": 5.0
-    },
-    {
-      "id": "prod-69f49eb4-006",
-      "name": "Noise-Cancelling Headphones",
-      "category": "electronics",
-      "price": 299.99,
-      "stock": 45,
-      "rating": 4.6
-    },
-    {
-      "id": "prod-69f49eb4-007",
-      "name": "Smart Watch Pro",
-      "category": "electronics",
-      "price": 199.99,
-      "stock": 120,
+      "name": "Basic Item 1",
+      "category": "sports",
+      "price": 333.86,
+      "stock": 82,
       "rating": 4.3
     },
     {
+      "id": "prod-69f49eb4-002",
+      "name": "Pro Item 2",
+      "category": "electronics",
+      "price": 466.81,
+      "stock": 29,
+      "rating": 5
+    },
+    {
+      "id": "prod-69f49eb4-003",
+      "name": "Elite Item 3",
+      "category": "sports",
+      "price": 123.88,
+      "stock": 6,
+      "rating": 4
+    },
+    {
+      "id": "prod-69f49eb4-004",
+      "name": "Elite Item 4",
+      "category": "sports",
+      "price": 254.41,
+      "stock": 55,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-69f49eb4-005",
+      "name": "Pro Item 5",
+      "category": "books",
+      "price": 402.62,
+      "stock": 18,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-69f49eb4-006",
+      "name": "Standard Item 6",
+      "category": "books",
+      "price": 437.35,
+      "stock": 78,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-69f49eb4-007",
+      "name": "Basic Item 7",
+      "category": "books",
+      "price": 230.26,
+      "stock": 168,
+      "rating": 3.9
+    },
+    {
       "id": "prod-69f49eb4-008",
-      "name": "Wireless Charging Pad",
-      "category": "electronics",
-      "price": 39.99,
-      "stock": 200,
-      "rating": 4.1
-    },
-    {
-      "id": "prod-69f49eb4-009",
-      "name": "Ergonomic Office Chair",
-      "category": "home",
-      "price": 249.50,
-      "stock": 30,
-      "rating": 4.7
-    },
-    {
-      "id": "prod-69f49eb4-010",
-      "name": "Standing Desk",
-      "category": "home",
-      "price": 499.00,
-      "stock": 15,
-      "rating": 4.8
-    },
-    {
-      "id": "prod-69f49eb4-011",
-      "name": "Mechanical Keyboard",
-      "category": "electronics",
-      "price": 89.99,
-      "stock": 75,
-      "rating": 4.5
-    },
-    {
-      "id": "prod-69f49eb4-012",
-      "name": "USB-C Hub",
-      "category": "electronics",
-      "price": 49.99,
-      "stock": 110,
+      "name": "Standard Item 8",
+      "category": "sports",
+      "price": 28.6,
+      "stock": 16,
       "rating": 4.2
     },
     {
-      "id": "prod-69f49eb4-013",
-      "name": "Monitor Stand",
+      "id": "prod-69f49eb4-009",
+      "name": "Pro Item 9",
       "category": "home",
-      "price": 29.99,
-      "stock": 85,
-      "rating": 4.4
+      "price": 169.78,
+      "stock": 71,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-69f49eb4-010",
+      "name": "Standard Item 10",
+      "category": "home",
+      "price": 125.99,
+      "stock": 52,
+      "rating": 4
+    },
+    {
+      "id": "prod-69f49eb4-011",
+      "name": "Standard Item 11",
+      "category": "electronics",
+      "price": 480.28,
+      "stock": 116,
+      "rating": 1.7
+    },
+    {
+      "id": "prod-69f49eb4-012",
+      "name": "Premium Item 12",
+      "category": "books",
+      "price": 270.44,
+      "stock": 48,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-69f49eb4-013",
+      "name": "Pro Item 13",
+      "category": "sports",
+      "price": 67.39,
+      "stock": 179,
+      "rating": 4.2
     },
     {
       "id": "prod-69f49eb4-014",
-      "name": "Water Bottle",
-      "category": "sports",
-      "price": 19.99,
-      "stock": 300,
-      "rating": 4.6
+      "name": "Basic Item 14",
+      "category": "home",
+      "price": 476.92,
+      "stock": 34,
+      "rating": 2.3
     },
     {
       "id": "prod-69f49eb4-015",
-      "name": "Yoga Mat",
-      "category": "sports",
-      "price": 25.00,
-      "stock": 150,
-      "rating": 4.7
+      "name": "Pro Item 15",
+      "category": "books",
+      "price": 405.15,
+      "stock": 174,
+      "rating": 3
     }
   ],
   "aggregations": {
@@ -130,17 +130,17 @@
       "count": 5,
       "inventoryValue": 163521.36
     },
-    "electronics": {
+    "sports": {
       "count": 5,
-      "inventoryValue": 57744.50
+      "inventoryValue": 54632.76
+    },
+    "electronics": {
+      "count": 2,
+      "inventoryValue": 69249.97
     },
     "home": {
       "count": 3,
-      "inventoryValue": 17519.15
-    },
-    "sports": {
-      "count": 2,
-      "inventoryValue": 9747.00
+      "inventoryValue": 34821.14
     }
   }
 }
