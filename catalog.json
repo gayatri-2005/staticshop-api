@@ -1,0 +1,147 @@
+
+{
+  "metadata": {
+    "email": "24f2000013@ds.study.iitm.ac.in",
+    "version": "69f49eb4"
+  },
+  "products": [
+    {
+      "id": "prod-69f49eb4-001",
+      "name": "Advanced Data Science",
+      "category": "books",
+      "price": 500.00,
+      "stock": 100,
+      "rating": 4.8
+    },
+    {
+      "id": "prod-69f49eb4-002",
+      "name": "Machine Learning Deep Dive",
+      "category": "books",
+      "price": 500.00,
+      "stock": 100,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-69f49eb4-003",
+      "name": "Statistical Analysis Guide",
+      "category": "books",
+      "price": 500.00,
+      "stock": 100,
+      "rating": 4.7
+    },
+    {
+      "id": "prod-69f49eb4-004",
+      "name": "Python for Professionals",
+      "category": "books",
+      "price": 100.00,
+      "stock": 100,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-69f49eb4-005",
+      "name": "Quantum Computing Basics",
+      "category": "books",
+      "price": 3521.36,
+      "stock": 1,
+      "rating": 5.0
+    },
+    {
+      "id": "prod-69f49eb4-006",
+      "name": "Noise-Cancelling Headphones",
+      "category": "electronics",
+      "price": 299.99,
+      "stock": 45,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-69f49eb4-007",
+      "name": "Smart Watch Pro",
+      "category": "electronics",
+      "price": 199.99,
+      "stock": 120,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-69f49eb4-008",
+      "name": "Wireless Charging Pad",
+      "category": "electronics",
+      "price": 39.99,
+      "stock": 200,
+      "rating": 4.1
+    },
+    {
+      "id": "prod-69f49eb4-009",
+      "name": "Ergonomic Office Chair",
+      "category": "furniture",
+      "price": 249.50,
+      "stock": 30,
+      "rating": 4.7
+    },
+    {
+      "id": "prod-69f49eb4-010",
+      "name": "Standing Desk",
+      "category": "furniture",
+      "price": 499.00,
+      "stock": 15,
+      "rating": 4.8
+    },
+    {
+      "id": "prod-69f49eb4-011",
+      "name": "Mechanical Keyboard",
+      "category": "electronics",
+      "price": 89.99,
+      "stock": 75,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-69f49eb4-012",
+      "name": "USB-C Hub",
+      "category": "electronics",
+      "price": 49.99,
+      "stock": 110,
+      "rating": 4.2
+    },
+    {
+      "id": "prod-69f49eb4-013",
+      "name": "Monitor Stand",
+      "category": "furniture",
+      "price": 29.99,
+      "stock": 85,
+      "rating": 4.4
+    },
+    {
+      "id": "prod-69f49eb4-014",
+      "name": "Water Bottle",
+      "category": "fitness",
+      "price": 19.99,
+      "stock": 300,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-69f49eb4-015",
+      "name": "Yoga Mat",
+      "category": "fitness",
+      "price": 25.00,
+      "stock": 150,
+      "rating": 4.7
+    }
+  ],
+  "aggregations": {
+    "books": {
+      "count": 5,
+      "inventoryValue": 163521.36
+    },
+    "electronics": {
+      "count": 5,
+      "inventoryValue": 48993.45
+    },
+    "furniture": {
+      "count": 3,
+      "inventoryValue": 17519.15
+    },
+    "fitness": {
+      "count": 2,
+      "inventoryValue": 9747.00
+    }
+  }
+}
