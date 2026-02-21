@@ -18,7 +18,7 @@
       "category": "electronics",
       "price": 466.81,
       "stock": 29,
-      "rating": 5
+      "rating": 5.0
     },
     {
       "id": "prod-69f49eb4-003",
@@ -26,7 +26,7 @@
       "category": "sports",
       "price": 123.88,
       "stock": 6,
-      "rating": 4
+      "rating": 4.0
     },
     {
       "id": "prod-69f49eb4-004",
@@ -82,7 +82,7 @@
       "category": "home",
       "price": 125.99,
       "stock": 52,
-      "rating": 4
+      "rating": 4.0
     },
     {
       "id": "prod-69f49eb4-011",
@@ -122,7 +122,7 @@
       "category": "books",
       "price": 405.15,
       "stock": 174,
-      "rating": 3
+      "rating": 3.0
     }
   ],
   "aggregations": {
@@ -130,9 +130,9 @@
       "count": 5,
       "inventoryValue": 163521.36
     },
-    "sports": {
-      "count": 5,
-      "inventoryValue": 54632.76
+    "clothing": {
+      "count": 0,
+      "inventoryValue": 0.0
     },
     "electronics": {
       "count": 2,
@@ -142,9 +142,9 @@
       "count": 3,
       "inventoryValue": 34821.14
     },
-    "clothing": {
-      "count": 0,
-      "inventoryValue": 0
+    "sports": {
+      "count": 5,
+      "inventoryValue": 54632.76
     }
   }
 }
